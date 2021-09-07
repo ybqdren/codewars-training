@@ -1,10 +1,9 @@
 package www.github.ybqdren.regexvalidatepincode;
 
 /**
- * @author Wen(Joan) Zhao
- * @version v1.0
- * @description
- **/
+ * Wen(Joan) Zhao <withzhaowen@126.com>
+ * 2021/9/7
+ */
 public class RegexValidatePinCode {
     public static void main(String[] args) {
         System.out.println(validatePin("1234"));
