@@ -1,4 +1,4 @@
-package www.github.ybqdren;
+package www.github.ybqdren.vowelcount;
 
 /**
  * Wen(Joan) Zhao <withzhaowen@126.com>
